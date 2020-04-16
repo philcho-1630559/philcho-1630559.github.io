@@ -1,0 +1,90 @@
+body{
+    background-image: url('dark_wood.png');
+}
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-style: italic;
+}
+
+h3{
+    color: #ffbc00;
+    font-size: 40px;
+    font-style: italic;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    padding: 15px;
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a{
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: 8px black;
+    border-radius: 24px;
+    border-style: dashed;
+    text-align: center;
+    background-image: linear-gradient(rgba(139, 4, 202, 0.945), rgba(240, 79, 255, 0.87), rgb(255, 226, 60));
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion one";
+    color: #FFBC00;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#LeftNav{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: 8px black;
+    border-style: dashed;
+    border-radius: 24px;
+    float: left;
+    text-align: center;
+    padding-bottom:8px;
+    background-image: linear-gradient(rgba(139, 4, 202, 0.945), rgba(240, 79, 255, 0.87), rgb(255, 226, 60));
+}
+
+#Content{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: 8px black;
+    border-style: dashed;
+    border-radius: 24px;
+    text-align: center;
+    padding: 15px;
+    background-image: linear-gradient(rgba(139, 4, 202, 0.945), rgba(240, 79, 255, 0.87), rgb(255, 226, 60));
+}
+
+#Footer{
+    border: 8px black;
+    border-style: dashed;
+    border-radius: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-image: linear-gradient(rgba(139, 4, 202, 0.945), rgba(240, 79, 255, 0.87), rgb(255, 226, 60));
+}
